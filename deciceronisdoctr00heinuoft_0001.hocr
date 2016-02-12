@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deciceronisdoctr00heinuoft_0001.png"; bbox 0 0 1988 3348; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 792 1047 1589 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 792 1047 1589 1155">
+     <span class='ocr_line' id='line_1_1' title="bbox 792 1047 1423 1100; baseline -0.003 -11"><span class='ocrx_word' id='word_1_1' title='bbox 792 1048 1083 1100; x_wconf 56' lang='lat' dir='ltr'>Ueinicke‚</span> <span class='ocrx_word' id='word_1_2' title='bbox 1131 1047 1423 1087; x_wconf 56' lang='grc' dir='ltr'>Οηὶὶεῖηηε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 900 1111 1589 1155; baseline -0.003 -2"><span class='ocrx_word' id='word_1_3' title='bbox 900 1115 957 1155; x_wconf 68' lang='lat' dir='ltr'>Ue</span> <span class='ocrx_word' id='word_1_4' title='bbox 1000 1113 1291 1154; x_wconf 46' lang='lat' dir='ltr'>ffffloeronis</span> <span class='ocrx_word' id='word_1_5' title='bbox 1330 1111 1589 1153; x_wconf 46' lang='lat' dir='ltr'>dockrssna</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 800 1180 1225 1235">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 800 1180 1225 1235">
+     <span class='ocr_line' id='line_1_3' title="bbox 800 1180 1225 1235; baseline -0.005 -14"><span class='ocrx_word' id='word_1_6' title='bbox 800 1194 925 1235; x_wconf 57' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_7' title='bbox 966 1180 1225 1234; x_wconf 52' lang='lat' dir='ltr'>perssssneh</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 506 460 1722 1872">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 506 460 1722 1872">
+     <span class='ocr_line' id='line_1_4' title="bbox 506 460 1722 1872; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 506 460 1722 1872; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 2676 330 3094">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 2676 330 3094">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 2676 330 3094; baseline 0 254"><span class='ocrx_word' id='word_1_9' title='bbox 0 2676 330 3094; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
